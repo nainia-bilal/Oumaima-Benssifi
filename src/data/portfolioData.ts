@@ -1,11 +1,11 @@
 import { ArtistProfile, ProjectItem, PhotoVideoItem } from '../types/portfolio';
 
 export const initialArtistProfile: ArtistProfile = {
-  name: 'OUMAIMA BENSSIFI',
+  name: 'OMAIMA BENSSIFI',
   roleTitle: 'JUNIOR DIGITAL MARKETER & CONTENT CREATOR',
   tagline: 'SOCIAL MEDIA MANAGEMENT, GRAPHIC DESIGN & VIDEO EDITING',
   location: 'Casablanca, Morocco',
-  bio: 'I am Oumaima Benssifi, a Junior Digital Marketer and Content Creator specializing in Social Media Management, Graphic Design, Video Editing, Photography and Videography.\n\nI am passionate about digital communication, creative storytelling and visual content. I enjoy transforming ideas into engaging content and creating visual experiences that connect brands with their audiences.\n\nMy goal is to combine creativity and strategy to deliver meaningful digital experiences.',
+  bio: 'I am OMAIMA BENSSIFI, a Junior Digital Marketer and Content Creator specializing in Social Media Management, Graphic Design, Video Editing, Photography and Videography.\n\nI am passionate about digital communication, creative storytelling and visual content. I enjoy transforming ideas into engaging content and creating visual experiences that connect brands with their audiences.\n\nMy goal is to combine creativity and strategy to deliver meaningful digital experiences.',
   avatarImage: '/Oumaima.jpg',
   email: 'bnsomaima7@gmail.com',
   phone: '+212 603-736222',

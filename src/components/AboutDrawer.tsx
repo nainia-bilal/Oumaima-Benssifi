@@ -91,7 +91,7 @@ export const AboutDrawer: React.FC<AboutDrawerProps> = ({
             {/* Formatted Bio Paragraphs */}
             <div className="space-y-3 text-xs sm:text-sm text-neutral-700 leading-relaxed font-sans">
               <p>
-                I am <strong className="text-neutral-900 font-semibold">Oumaima Benssifi</strong>, a Junior Digital Marketer and Content Creator specializing in Social Media Management, Graphic Design, Video Editing, Photography and Videography.
+                I am <strong className="text-neutral-900 font-semibold">OMAIMA BENSSIFI</strong>, a Junior Digital Marketer and Content Creator specializing in Social Media Management, Graphic Design, Video Editing, Photography and Videography.
               </p>
               <p>
                 I am passionate about digital communication, creative storytelling and visual content. I enjoy transforming ideas into engaging content and creating visual experiences that connect brands with their audiences.

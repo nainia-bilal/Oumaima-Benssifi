@@ -35,7 +35,7 @@ export default function App() {
         const res: ArtistProfile = {
           ...initialArtistProfile,
           ...parsed,
-          name: 'OUMAIMA BENSSIFI',
+          name: 'OMAIMA BENSSIFI',
           roleTitle: initialArtistProfile.roleTitle,
           bio: initialArtistProfile.bio,
           skills: initialArtistProfile.skills,
