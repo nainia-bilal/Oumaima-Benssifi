@@ -43,7 +43,7 @@ export const AboutDrawer: React.FC<AboutDrawerProps> = ({
         {/* Left Column: Portrait & Badge */}
         <div className="w-full md:w-5/12 relative min-h-[280px] md:min-h-full bg-neutral-900 overflow-hidden shrink-0">
   <img
-    src={artist.avatarImage || '/Omaimajpg'}
+    src={artist.avatarImage || '/Oumaima.jpg'}
     alt={artist.name}
     referrerPolicy="no-referrer"
     className="w-full h-full object-cover object-top filter contrast-105"
@@ -91,7 +91,7 @@ export const AboutDrawer: React.FC<AboutDrawerProps> = ({
             {/* Formatted Bio Paragraphs */}
             <div className="space-y-3 text-xs sm:text-sm text-neutral-700 leading-relaxed font-sans">
               <p>
-                I am <strong className="text-neutral-900 font-semibold">OmaimaBenssifi</strong>, a Junior Digital Marketer and Content Creator specializing in Social Media Management, Graphic Design, Video Editing, Photography and Videography.
+                I am <strong className="text-neutral-900 font-semibold">Oumaima Benssifi</strong>, a Junior Digital Marketer and Content Creator specializing in Social Media Management, Graphic Design, Video Editing, Photography and Videography.
               </p>
               <p>
                 I am passionate about digital communication, creative storytelling and visual content. I enjoy transforming ideas into engaging content and creating visual experiences that connect brands with their audiences.

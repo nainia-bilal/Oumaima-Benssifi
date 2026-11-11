@@ -1,17 +1,17 @@
 import { ArtistProfile, ProjectItem, PhotoVideoItem } from '../types/portfolio';
 
 export const initialArtistProfile: ArtistProfile = {
-  name: 'OmaimaBENSSIFI',
+  name: 'OUMAIMA BENSSIFI',
   roleTitle: 'JUNIOR DIGITAL MARKETER & CONTENT CREATOR',
   tagline: 'SOCIAL MEDIA MANAGEMENT, GRAPHIC DESIGN & VIDEO EDITING',
   location: 'Casablanca, Morocco',
-  bio: 'I am OmaimaBenssifi, a Junior Digital Marketer and Content Creator specializing in Social Media Management, Graphic Design, Video Editing, Photography and Videography.\n\nI am passionate about digital communication, creative storytelling and visual content. I enjoy transforming ideas into engaging content and creating visual experiences that connect brands with their audiences.\n\nMy goal is to combine creativity and strategy to deliver meaningful digital experiences.',
-  avatarImage: '/Omaimajpg',
+  bio: 'I am Oumaima Benssifi, a Junior Digital Marketer and Content Creator specializing in Social Media Management, Graphic Design, Video Editing, Photography and Videography.\n\nI am passionate about digital communication, creative storytelling and visual content. I enjoy transforming ideas into engaging content and creating visual experiences that connect brands with their audiences.\n\nMy goal is to combine creativity and strategy to deliver meaningful digital experiences.',
+  avatarImage: '/Oumaima.jpg',
   email: 'bnsomaima7@gmail.com',
   phone: '+212 603-736222',
   availability: 'Available for freelance digital marketing, content creation & design commissions (2026)',
   socials: [
-    { platform: 'LinkedIn', handle: 'Omaimabenssifi', url: 'https://www.linkedin.com/in/omaima-benssifi' },
+    { platform: 'LinkedIn', handle: 'oumaima-benssifi', url: 'https://www.linkedin.com/in/omaima-benssifi' },
     { platform: 'Instagram', handle: '@omaima_benssifi', url: 'https://www.instagram.com/omaima_benssifi?igsh=MWFpMHAwNDNpZG9yaA==' },
     { platform: 'Email', handle: 'bnsomaima7@gmail.com', url: 'mailto:bnsomaima7@gmail.com' },
     { platform: 'Phone', handle: '+212 603-736222', url: 'tel:+212603736222' },
@@ -141,7 +141,7 @@ export const initialProjects: ProjectItem[] = [
     tools: ['Premiere Pro', 'DaVinci Resolve', 'Illustrator', 'Figma'],
     summary: 'The central identity card of Omaima Benssifi — video editor, DaVinci Resolve colorist, and graphic brand designer.',
     description: 'Operating at the intersection of cinematic video pacing and cutting-edge visual branding. Building distinctive motion reels and visual systems for brands, commercial clients, and creative publications.',
-    coverImage: '/Omaimajpg',
+    coverImage: '/Oumaima.jpg',
     accentColor: '#75030C',
     badgeCode: 'DVS X2K4',
     features: [
