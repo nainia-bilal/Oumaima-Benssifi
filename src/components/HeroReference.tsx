@@ -134,7 +134,7 @@ export const HeroReference: React.FC<HeroReferenceProps> = ({
                   opacity: 0.9,
                 }}
               >
-                OUMAIMA BENSSIFI
+                OmaimaBENSSIFI
               </span>
             </div>
           </div>
@@ -154,7 +154,7 @@ export const HeroReference: React.FC<HeroReferenceProps> = ({
                   transform: 'translateX(-1px)',
                 }}
               >
-                OUMAIMA BENSSIFI
+                OmaimaBENSSIFI
               </span>
             </div>
 
@@ -170,7 +170,7 @@ export const HeroReference: React.FC<HeroReferenceProps> = ({
                 transition={{ type: 'spring', damping: 25, stiffness: 160 }}
                 triggerKey={activeCardIndex}
               >
-                OUMAIMA BENSSIFI
+                OmaimaBENSSIFI
               </Text3DFlip>
             </div>
           </div>
