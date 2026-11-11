@@ -42,13 +42,13 @@ export const AboutDrawer: React.FC<AboutDrawerProps> = ({
 
         {/* Left Column: Portrait & Badge */}
         <div className="w-full md:w-5/12 relative min-h-[280px] md:min-h-full bg-neutral-900 overflow-hidden shrink-0">
-          <img
-                  src={artist.avatarImage || '/src/assets/images/Oumaima.jpg'}
-            alt={artist.name}
-            referrerPolicy="no-referrer"
-            className="w-full h-full object-cover object-top filter contrast-105"
-          />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-black/30" />
+  <img
+    src={artist.avatarImage || '/Oumaima.jpg'}
+    alt={artist.name}
+    referrerPolicy="no-referrer"
+    className="w-full h-full object-cover object-top filter contrast-105"
+  />
+  <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-black/30" />
 
           {/* Badge at top left */}
           <div className="absolute top-5 left-5">
