@@ -77,7 +77,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ profile, onNavigate })
                   alt={profile.name}
                   onError={(e) => {
                     // Fallback to local asset
-                    e.currentTarget.src = '/assets/Oumaima.jpg';
+                    e.currentTarget.src = '//Oumaima.jpg';
                   }}
                   className="w-full h-full object-cover object-top transition-transform duration-700 hover:scale-105"
                 />

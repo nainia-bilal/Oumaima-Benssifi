@@ -6,7 +6,7 @@ export const initialArtistProfile: ArtistProfile = {
   tagline: 'SOCIAL MEDIA MANAGEMENT, GRAPHIC DESIGN & VIDEO EDITING',
   location: 'Casablanca, Morocco',
   bio: 'I am Oumaima Benssifi, a Junior Digital Marketer and Content Creator specializing in Social Media Management, Graphic Design, Video Editing, Photography and Videography.\n\nI am passionate about digital communication, creative storytelling and visual content. I enjoy transforming ideas into engaging content and creating visual experiences that connect brands with their audiences.\n\nMy goal is to combine creativity and strategy to deliver meaningful digital experiences.',
-  avatarImage: '/assets/Oumaima.jpg',
+  avatarImage: '//Oumaima.jpg',
   email: 'bnsomaima7@gmail.com',
   phone: '+212 603-736222',
   availability: 'Available for freelance digital marketing, content creation & design commissions (2026)',
@@ -141,7 +141,7 @@ export const initialProjects: ProjectItem[] = [
     tools: ['Premiere Pro', 'DaVinci Resolve', 'Illustrator', 'Figma'],
     summary: 'The central identity card of Omaima Benssifi — video editor, DaVinci Resolve colorist, and graphic brand designer.',
     description: 'Operating at the intersection of cinematic video pacing and cutting-edge visual branding. Building distinctive motion reels and visual systems for brands, commercial clients, and creative publications.',
-    coverImage: '/assets/Oumaima.jpg',
+    coverImage: '//Oumaima.jpg',
     accentColor: '#75030C',
     badgeCode: 'DVS X2K4',
     features: [
