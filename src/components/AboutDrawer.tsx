@@ -43,7 +43,7 @@ export const AboutDrawer: React.FC<AboutDrawerProps> = ({
         {/* Left Column: Portrait & Badge */}
         <div className="w-full md:w-5/12 relative min-h-[280px] md:min-h-full bg-neutral-900 overflow-hidden shrink-0">
           <img
-            src={artist.avatarImage}
+                  src={artist.avatarImage || '/src/assets/images/Oumaima.jpg'}
             alt={artist.name}
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover object-top filter contrast-105"
