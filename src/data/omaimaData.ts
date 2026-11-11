@@ -14,7 +14,7 @@ export const initialOmaimaProfile: OmaimaProfile = {
   title: 'Video Editor & Graphic Designer',
   tagline: 'Cinematic Storytelling & High-Impact Visual Systems',
   bio: "I craft compelling digital narratives through dynamic video editing, DaVinci Resolve color grading, rhythm-driven motion design, and bespoke graphic branding systems. Merging cinematic pacing with clean, intentional visual design to elevate brands and captivate audiences.",
-  avatarUrl: '//Oumaima.jpg',
+  avatarUrl: '/Oumaima.jpg',
   email: 'bnsomaima7@gmail.com',
   phone: '+212 603-736222',
   location: 'Casablanca, Morocco',

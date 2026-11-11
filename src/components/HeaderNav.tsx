@@ -98,7 +98,7 @@ export const HeaderNav: React.FC<HeaderNavProps> = ({
               {/* Mini Portrait Avatar */}
               <div className="relative w-7 h-7 sm:w-8 sm:h-8 rounded-full overflow-hidden bg-neutral-800 ring-1 ring-white/30 shrink-0">
                 <img
-                  src={artist.avatarImage || '//Oumaima.jpg'}
+                  src={artist.avatarImage || '/Oumaima.jpg'}
                   alt={artist.name}
                   className="w-full h-full object-cover object-[center_12%]"
                   loading="eager"
